@@ -1,0 +1,6 @@
+const BOT_TOKEN="6569483795:AAGXGV2Awd_fVhgy_20sjDpdfGJMaf6Ex6w"
+const ADMIN_ID="-1001959790816"
+export default {
+  BOT_TOKEN,
+  ADMIN_ID
+}
